@@ -71,4 +71,6 @@ body {
 }
 
 .heading {
+  display: flex;
+  gap: 2vw;
 }
