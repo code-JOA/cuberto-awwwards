@@ -75,7 +75,7 @@ body {
   gap: 40px;
 }
 
-.heading h1 {
+#homemain .heading h1 {
   font-size: 5vw;
   text-transform: uppercase;
 }
