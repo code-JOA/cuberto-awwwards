@@ -29,8 +29,10 @@ body {
 }
 
 #nav {
-  display: flex;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   padding: 30px 50px;
 }
 
