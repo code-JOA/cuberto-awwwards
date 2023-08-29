@@ -48,5 +48,9 @@ body {
   letter-spacing: -1px;
 }
 
+#nav .right {
+  display: flex;
+}
+
 #right {
 }
