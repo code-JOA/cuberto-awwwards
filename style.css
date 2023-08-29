@@ -1,6 +1,6 @@
 @font-face {
   font-family: "averta cy w10";
-  src: url("./fonts/");
+  src: url("./fonts/AvertaCY-Light.woff2");
 }
 
 * {
@@ -14,6 +14,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #fff;
+  font-family: "averta cy w10";
 }
 
 #main {
