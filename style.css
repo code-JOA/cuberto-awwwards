@@ -62,7 +62,7 @@ body {
 #home #homemain {
   width: 100%;
   /* background-color: red; */
-  padding: 15vw 16vw;
+  padding: 15vw 15vw;
 }
 
 #homemain h1 {
@@ -78,6 +78,6 @@ body {
 #homemain .heading h1 {
   font-size: 7vw;
   font-weight: 900;
-  letter-spacing: 8px;
+  letter-spacing: -8px;
   /* text-transform: uppercase; */
 }
