@@ -72,5 +72,10 @@ body {
 
 .heading {
   display: flex;
-  gap: 2vw;
+  gap: 40px;
+}
+
+.heading h1 {
+  font-size: 100px;
+  text-transform: uppercase;
 }
