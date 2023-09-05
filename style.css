@@ -86,8 +86,12 @@ body {
   /* text-transform: uppercase; */
 }
 
+#homelast{
+  
+}
+
 #homelast p{
-  font-size: 1.3vw;
+  font-size: 1.6vw;
   font-weight: 400;
   letter-spacing: -.0.8vw;
 }
