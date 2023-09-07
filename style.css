@@ -86,18 +86,33 @@ body {
   /* text-transform: uppercase; */
 }
 
-#homelast{
+#homelast {
   padding: 5vw 15vw;
 }
 
-#homelast p{
+#homelast p {
   font-size: 1.6vw;
   font-weight: 400;
-  letter-spacing: -.0.8vw;
+  letter-spacing: -0.8vw;
   width: 70%;
 }
 
-#homelast p::selection{
+#homelast p::selection {
   color: #ffff;
-  bacground-color: #0000;
+  background-color: #0000;
+}
+
+#featured {
+  padding: 10vw 15vw;
+}
+
+#featured h1 {
+  line-height: 1;
+  font-size: 4vw;
+  font-weight: 400;
+}
+
+#featured :nth-child(2) {
+  color: transparent;
+  text-transform: ;
 }
