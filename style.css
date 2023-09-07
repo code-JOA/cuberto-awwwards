@@ -112,9 +112,9 @@ body {
   font-weight: 400;
 }
 
-.featured h1:nth-child(2) {
-  color: transparent;
-  -webkit-text-stroke: 1px #000;
+.featured h1:nth-child(1) {
+  color: red;
+  /* -webkit-text-stroke: 1px #000; */
 }
 /* 
 #featured-heading {
