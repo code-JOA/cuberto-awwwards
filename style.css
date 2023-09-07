@@ -112,7 +112,13 @@ body {
   font-weight: 400;
 }
 
-#featured :nth-child(2) {
+#featured h1:nth-child(2) {
   color: transparent;
-  text-transform: ;
+  text-transform: 1px #000;
+}
+
+#featured-heading {
+}
+
+#featured-image {
 }
