@@ -114,7 +114,7 @@ body {
 
 .featured h1:nth-child(2) {
   color: transparent;
-  -webkit-animation: 1px #000;
+  -webkit-text-stroke: 1px #000;
 }
 /* 
 #featured-heading {
