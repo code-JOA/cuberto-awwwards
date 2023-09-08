@@ -160,8 +160,13 @@ body {
 
 }
 
+.leftelem h3{
+  font-size: 1.3vw;
+  font-weight: 400;
+}
+
 .fleftelem h4{
-  
+  opacity: .5;
 }
 
 #featured-right {
