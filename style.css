@@ -138,6 +138,12 @@ body {
 
 #featured-right {
   width: 45%;
+  justify-content: space-between;
   min-height: inherit;
   border: 1px solid green;
+}
+
+#featured-right images{
+  width: 90%;
+  height: 80%;
 }
