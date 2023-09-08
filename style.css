@@ -121,21 +121,22 @@ body {
 } */
 
 #featured-images {
+  display: flex;
   width: 100%;
   min-height: 100vh;
   /* padding: 0vw 15vw; */
-  margin-top: 50px;
+  margin-top: 5vw;
   /* border: 2px solid red; */
 }
 
 #featured-left {
-  width: 50%;
+  width: 45%;
   min-height: inherit;
   border: 1px solid blue;
 }
 
 #featured-right {
-  width: 50%;
+  width: 45%;
   min-height: inherit;
   border: 1px solid green;
 }
