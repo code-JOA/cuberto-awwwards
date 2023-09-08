@@ -130,6 +130,10 @@ body {
   /* border: 2px solid red; */
 }
 
+.fleftelem{
+  width: 100%;
+}
+
 #featured-left {
   width: 45%;
   min-height: inherit;
