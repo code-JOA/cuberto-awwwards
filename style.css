@@ -142,12 +142,11 @@ body {
   align-items: center;
   justify-content: flex-end;
   min-height: inherit;
-  border: 1px solid green;
+  /* border: 1px solid green; */
 }
 
 #featured-right .images{
   width: 90%;
-  height: 80%;
+  height: 90%;
   background-color: red;
-
 }
