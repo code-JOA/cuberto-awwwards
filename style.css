@@ -139,12 +139,14 @@ body {
   overflow: hidden;
   width: 45%;
   height: inherit;
-  border: 1px solid blue;
-  background-color: red;
+  /* border: 1px solid blue;
+  background-color: red; */
 
 }
 
 .fleftelem{
+  display: flex;
+  flex-direction: column;
   width: 100%;
   min-height: inherit;
 }
