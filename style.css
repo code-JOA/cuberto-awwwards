@@ -103,6 +103,8 @@ body {
 }
 
 #featured {
+  display: flex;
+  flex-direction: column;
   padding: 10vw 15vw;
 }
 
