@@ -152,6 +152,11 @@ body {
   height: inherit;
 }
 
+.fleftelem h1{
+  font-size: 2vw;
+  
+}
+
 #featured-right {
   display: flex;
   align-items: center;
