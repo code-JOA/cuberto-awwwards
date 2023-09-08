@@ -138,6 +138,8 @@ body {
 
 #featured-right {
   width: 45%;
+  display: flex;
+  align-items: center;
   justify-content: space-between;
   min-height: inherit;
   border: 1px solid green;
