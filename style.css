@@ -196,5 +196,7 @@ body {
 #btndiv button{
   padding: 1.5vw 2vw;
   border-radius: 100px;
-  border: 1px solid e6e6e6;
+  border: 1px solid #e6e6e6;
+  background-color: #fff;
+  font-size: 1.3vw;
 }
