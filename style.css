@@ -116,9 +116,7 @@ body {
   color: transparent;
   -webkit-text-stroke: 1px #000;
 }
-/* 
-#featured-heading {
-} */
+
 
 #featured-images {
   display: flex;
@@ -158,3 +156,4 @@ body {
   height: 90%;
   background-color: red;
 }
+
