@@ -146,5 +146,6 @@ body {
 #featured-right images{
   width: 90%;
   height: 80%;
-  color: red;
+  background-color: red;
+
 }
