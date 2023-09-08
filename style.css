@@ -130,14 +130,17 @@ body {
   /* border: 2px solid red; */
 }
 
-.fleftelem{
-  width: 100%;
-}
 
 #featured-left {
   width: 45%;
+  overflow: auto;
   min-height: inherit;
   border: 1px solid blue;
+}
+
+.fleftelem{
+  width: 100%;
+  min-height: inherit;
 }
 
 #featured-right {
