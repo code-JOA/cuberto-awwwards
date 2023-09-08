@@ -120,7 +120,7 @@ body {
 
 #featured-images {
   display: flex;
-  align-items: start;
+  /* align-items: start; */
   justify-content: space-between;
   width: 100%;
   min-height: 100vh;
