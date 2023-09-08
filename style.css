@@ -124,14 +124,18 @@ body {
   width: 100%;
   min-height: 100vh;
   padding: 0vw 15vw;
-  margin-top: 20px;
-  border: 2px solid red;
+  margin-top: 50px;
+  /* border: 2px solid red; */
 }
 
 #featured-left {
   width: 50%;
+  min-height: inherit;
+  border: 1px solid blue;
 }
 
 #featured-right {
   width: 50%;
+  min-height: inherit;
+  border: 1px solid green;
 }
