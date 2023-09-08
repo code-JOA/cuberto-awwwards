@@ -123,7 +123,7 @@ body {
   /* align-items: start; */
   justify-content: space-between;
   width: 100%;
-  min-height: 100vh;
+  height: 100vh;
   margin-top: 5vw;
    /* padding: 0vw 15vw; */ */
   /* border: 2px solid red; */
@@ -135,6 +135,8 @@ body {
   width: 45%;
   min-height: inherit;
   border: 1px solid blue;
+  background-color: red;
+
 }
 
 .fleftelem{
