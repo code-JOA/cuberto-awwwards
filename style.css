@@ -140,12 +140,12 @@ body {
   width: 45%;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   min-height: inherit;
   border: 1px solid green;
 }
 
-#featured-right images{
+#featured-right .images{
   width: 90%;
   height: 80%;
   background-color: red;
