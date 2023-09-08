@@ -125,3 +125,7 @@ body {
   padding: 5vw 15vw;
   border: 2px solid red;
 }
+
+#fleft {
+  width: 50%;
+}
