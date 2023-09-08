@@ -122,10 +122,15 @@ body {
 
 #featured-images {
   width: 100%;
+  min-height: 100vh;
   padding: 5vw 15vw;
   border: 2px solid red;
 }
 
-#fleft {
+#featured-left {
+  width: 50%;
+}
+
+#featured-right {
   width: 50%;
 }
