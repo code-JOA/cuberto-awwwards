@@ -109,13 +109,13 @@ body {
   padding: 10vw 15vw;
 }
 
-.featured-heading>h1 {
+.featured-heading > h1 {
   line-height: 1;
   font-size: 4vw;
   font-weight: 400;
 }
 
-.featured-heading>h1:nth-child(2) {
+.featured-heading > h1:nth-child(2) {
   color: transparent;
   -webkit-text-stroke: 1px #000;
 }
@@ -133,10 +133,7 @@ body {
   width: 100%;
   height: 100vh;
   margin-top: 5vw;
-   /* padding: 0vw 15vw; */ */
-  /* border: 2px solid red; */
 }
-
 
 #featured-left {
   overflow: hidden;
@@ -144,32 +141,30 @@ body {
   height: inherit;
   /* border: 1px solid blue;
   background-color: red; */
-
 }
 
-.fleftelem{
+.fleftelem {
   display: flex;
   flex-direction: column;
-  justify-content:center;
+  justify-content: center;
   width: 100%;
   height: inherit;
 }
 
-.fleftelem h1{
+.fleftelem h1 {
   font-size: 2.5vw;
   line-height: 1;
   font-weight: 400;
   text-transform: capitalize;
-
 }
 
-.leftelem h3{
+.leftelem h3 {
   font-size: 1.3vw;
   font-weight: 400;
 }
 
-.fleftelem h4{
-  opacity: .5;
+.fleftelem h4 {
+  opacity: 0.5;
 }
 
 #featured-right {
@@ -181,19 +176,19 @@ body {
   /* border: 1px solid green; */
 }
 
-#featured-right .images{
+#featured-right .images {
   width: 90%;
   height: 90%;
   background-color: red;
 }
 
-#btndiv{
+#btndiv {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#btndiv button{
+#btndiv button {
   padding: 1.3vw 2.5vw;
   border-radius: 100px;
   border: 2px solid #e6e6e6;
@@ -202,4 +197,3 @@ body {
   font-weight: 500;
   letter-spacing: -1px;
 }
-
