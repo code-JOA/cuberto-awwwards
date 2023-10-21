@@ -96,9 +96,3 @@ body {
   letter-spacing: -0.8vw;
   width: 70%;
 }
-
-#homelast p::selection {
-  /* color: #ffff; */
-  color: red;
-  background-color: #0000;
-}
