@@ -85,14 +85,3 @@ body {
   -webkit-text-stroke: 1px #000;
   /* text-transform: uppercase; */
 }
-
-#homelast {
-  padding: 5vw 15vw;
-}
-
-#homelast p {
-  font-size: 1.6vw;
-  font-weight: 400;
-  letter-spacing: -0.8vw;
-  width: 70%;
-}
