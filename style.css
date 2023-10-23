@@ -85,3 +85,9 @@ body {
   -webkit-text-stroke: 1px #000;
   /* text-transform: uppercase; */
 }
+
+#homelast p {
+  font-size: 1.3vw;
+  font-weight: 400;
+  letter-spacing: ;
+}
