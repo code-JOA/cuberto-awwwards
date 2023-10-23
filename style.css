@@ -71,12 +71,12 @@ body {
   letter-spacing: -0.1vw;
 }
 
-.heading {
+.headings {
   display: flex;
   gap: 40px;
 }
 
-#homemain .heading h1 {
+#homemain .headings h1 {
   font-size: 7vw;
   font-weight: 900;
   letter-spacing: -8px;
